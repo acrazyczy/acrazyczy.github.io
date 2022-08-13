@@ -45,4 +45,4 @@ widget:
 draft: false
 ---
 ## Self Introduction
-I am Ziyi Cai (蔡子逸), a senior undergraduate from [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Yong Yu](https://apex.sjtu.edu.cn/members/yyu).
+I am Ziyi Cai (蔡子逸), a senior undergraduate from [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Yijia Chen](https://basics.sjtu.edu.cn/~chen/) and Prof. Yong Yu.
