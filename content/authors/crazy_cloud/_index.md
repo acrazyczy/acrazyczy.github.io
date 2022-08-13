@@ -1,7 +1,7 @@
 ---
 # Name
 title: crazy_cloud
-role:
+role: Student
 bio:
 avatar:
 
