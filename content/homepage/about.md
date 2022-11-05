@@ -45,4 +45,4 @@ widget:
 draft: false
 ---
 ## Self Introduction
-I am Ziyi Cai (蔡子逸), a senior undergraduate from [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I am broadly interested in theoretical computer science, especially in machine learning, computational complexity and logics.
+I am Ziyi Cai (蔡子逸), a senior undergraduate from [ACM Honor Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I am broadly interested in theoretical computer science, especially in machine learning, computational complexity and logic.

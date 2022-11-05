@@ -1,9 +1,9 @@
 ---
 # Name
-title: crazy_cloud
-role: 
+title: Ziyi Cai
+role: student
 bio:
-avatar: images/avatar.jpg
+avatar: images/ziyicai-avatar.jpg
 
 organization:
   name:
