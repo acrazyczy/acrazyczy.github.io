@@ -9,4 +9,8 @@ draft: false
 weight: 1
 ---
 ## Lectures for *Great Ideas in Computer Science*, Fall 2022
+* This is a course for freshmen at ACM Honor Class, SJTU, where I served as a teaching assistant.
 * [Complexity Analysis](/talks/complexity-analysis.pdf). Introduce simple lower bound analysis and time space complexity for Turing machine.
+
+## Presentations for *Theoretical Computer Science*, Spring 2021
+* [The Reachability Problem for Petri Nets is Not Elementary](/talks/reachability-petri-nets-not-elementary.pdf). This is a presentation with [Lejun Min](https://aik2.site/) for the theoretical computer science course on Jun. 3, 2021. In this lecture, we introduce the latest results in [[Czerwiński, Lasota, Lazić, Leroux and Mazowiecki, 2019]](https://dl.acm.org/doi/10.1145/3313276.3316369) on the lower bound for reachability of VAS.
