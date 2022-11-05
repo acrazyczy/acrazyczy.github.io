@@ -9,7 +9,7 @@ organization:
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:caiziyi@sjtu.edu.cn
+    url: mailto:crazycloudczy@gmail.com
   - icon: twitter
     iconPack: fab
     url: https://twitter.com/crazycloud15
@@ -45,4 +45,4 @@ widget:
 draft: false
 ---
 ## Self Introduction
-I am Ziyi Cai (蔡子逸), a senior undergraduate from [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Yijia Chen](https://basics.sjtu.edu.cn/~chen/) and Prof. Yong Yu.
+I am Ziyi Cai (蔡子逸), a senior undergraduate from [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I am broadly interested in theoretical computer science, especially in machine learning, computational complexity and logics.
