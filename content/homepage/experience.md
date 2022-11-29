@@ -9,7 +9,7 @@ experiences:
     dates: Feb. 2022 - present
     location: remote
     writeup: >
-     - **Research Topic:** spectral methods, PCA
+     - **Research Topic:** spectral methods of community detection.
 
 
   - title: Undergraduate Researcher advised by [Prof. Yijia Chen](https://basics.sjtu.edu.cn/~chen)
@@ -19,13 +19,13 @@ experiences:
     dates: Aug. 2021 - present
     location: Shanghai, China
     writeup: >
-     - **Research Topic:** logic and games, parameterized complexity
+     - **Research Topic:** size of resolution proof, descriptive complexity of parity games.
 
-     - Member of [BASICS Lab](https://basics.sjtu.edu.cn)
+     - I am a member of [BASICS Lab](https://basics.sjtu.edu.cn).
 
 weight: 3
 widget:
-  handler: experiences
+  handler: experience
 
   # Options: sm, md, lg and xl. Default is md.
   width: lg
