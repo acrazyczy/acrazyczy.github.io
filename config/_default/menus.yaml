@@ -11,6 +11,9 @@ main:
   - name: Talks
     url: /talks/
     weight: 4
+  - name: Projects
+    url: /projects/
+    weight: 5
   # - name: Publication
     # url: /publication/
     # weight: 4
