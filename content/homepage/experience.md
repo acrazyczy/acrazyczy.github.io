@@ -6,7 +6,7 @@ experiences:
     organization:
       name: University of Southern California
       url: https://www.usc.edu
-    dates: Feb. 2022 - present
+    dates: Aug. 2022 - Dec. 2022
     location: remote
     writeup: >
      - **Research Topic:** spectral methods of community detection.
