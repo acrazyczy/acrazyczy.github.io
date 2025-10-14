@@ -16,18 +16,21 @@ menu:
     # - name: Books
     # url: books/
     # weight: 5
+    - name: CV
+      url: cv.pdf
+      weight: 1
     - name: Publication
       url: publication/
-      weight: 1
+      weight: 2
     - name: Talks
       url: talks/
-      weight: 2
+      weight: 3
     - name: Teaching
       url: teaching/
       weight: 4
     - name: Projects
       url: projects/
-      weight: 3
+      weight: 5
     # - name: Blog
     # url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
     # weight: 6
@@ -59,7 +62,7 @@ params:
   profileMode:
     enabled: true
     title: Ziyi Cai
-    subtitle: "I am a third-year Ph.D. student in the [CS Theory Group](https://theory.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by [Peng Zhang](https://sites.google.com/site/pengzhang27182/). My current interests are mainly in computational social choice and discrepancy theory."
+    subtitle: "I am a third-year Ph.D. student in the <a style='color: #0066cc;' href='https://theory.cs.rutgers.edu/'>CS Theory Group</a> at <a style='color: #0066cc;' href='https://www.rutgers.edu/'>Rutgers University</a>, advised by <a style='color: #0066cc;' href='https://sites.google.com/site/pengzhang27182/'>Peng Zhang</a>. My current interests are mainly in computational social choice and discrepancy theory."
     imageUrl: "avatar.jpg"
     imageWidth: 160
     imageHeight: 160

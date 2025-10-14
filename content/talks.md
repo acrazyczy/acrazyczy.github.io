@@ -9,4 +9,4 @@ description: "Talks given by Ziyi Cai"
 
 **Metric Distortion of Matching: A Stochastic Perspective**
 
-- Workshop on Frontiers in Combinatorics and Theoretical Computer Science at the Banff International Research Station (BIRS), Jun 2025
+- Workshop on Frontiers in Combinatorics and Theoretical Computer Science at the Banff International Research Station (BIRS), Jun 2025 - <a style='color: #0066cc;' href='http://webfiles.birs.ca/events/2025/5-day-workshops/25w5348/videos/watch/202506131100-Cai.html'>Video</a>
