@@ -97,7 +97,7 @@ params:
     # - name: Office Hours
     # url: officehours/
     - name: Google Scholar
-      url: https://scholar.google.com/citations?AvA2C9UAAAAJ
+      url: https://scholar.google.com/citations?user=AvA2C9UAAAAJ
     - name: GitHub
       url: https://github.com/acrazyczy
     # - name: Substack
