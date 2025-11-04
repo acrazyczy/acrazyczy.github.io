@@ -31,9 +31,9 @@ menu:
     - name: Projects
       url: projects/
       weight: 5
-    # - name: Blog
-    # url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-    # weight: 6
+    - name: Blog (for Competitive Programming)
+      url: https://acrazyczy.github.io/blog
+      weight: 6
 
 params:
   description: "This website hosts Ziyi Cai's publication, projects, curriculum vitae, and contact information."
@@ -106,6 +106,8 @@ params:
     # url: https://www.youtube.com/@pmichaillat
     - name: Twitter
       url: https://x.com/crazycloud15
+    - name: Instagram
+      url: https://www.instagram.com/crazy_cloud6/
     # - name: Bluesky
     # url: https://bsky.app/profile/pmichaillat.bsky.social
 

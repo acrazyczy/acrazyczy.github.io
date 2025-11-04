@@ -5,9 +5,24 @@ hidemeta: true
 description: "Publication list of Ziyi Cai"
 ---
 
+## Ongoing Works
+
+<div class="publication-list">
+
+<div class="publication-item">
+  <div class="pub-title">Metric Distortion of Matching: A Stochastic Perspective</div>
+  <div class="pub-authors"><span class="my-name">Ziyi Cai</span>, Qing Chen, Kangning Wang and Peng Zhang</div>
+  <div class="pub-venue">In <span class="journal-name">Submission</span></div>
+</div>
+</div>
+
 ---
 
 ## Preprint
+
+<div class="publication-list">
+
+</div>
 
 ---
 
