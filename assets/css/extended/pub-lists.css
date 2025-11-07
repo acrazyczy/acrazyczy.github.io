@@ -17,6 +17,31 @@
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
+.pub-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.4rem;
+  gap: 1rem;
+}
+
+.pub-languages {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.pub-language {
+  font-size: 0.85rem;
+  color: #6b7280;
+  font-weight: 600;
+  white-space: nowrap;
+  padding: 0.25rem 0.75rem;
+  background: rgba(59, 130, 246, 0.1);
+  border-radius: 4px;
+}
+
 .pub-title {
   font-size: 1.1rem;
   font-weight: 700;
@@ -65,6 +90,36 @@
   color: white;
   transform: translateY(-2px);
   box-shadow: 0 4px 8px rgba(0, 102, 204, 0.3);
+}
+
+.pub-button.pdf {
+  /* background: #b31b1b; */
+  color: #8b1515;
+  border: 2px solid #8b1515;
+}
+
+.pub-button.pdf:hover {
+  background: #8b1515;
+  color: white;
+}
+
+/* .pub-button.pdf { */
+/*   background: #dc2626; */
+/* } */
+/**/
+/* .pub-button.pdf:hover { */
+/*   background: #b91c1c; */
+/* } */
+
+.pub-button.code {
+  /* background: #059669; */
+  color: #047857;
+  border: 2px solid #047857;
+}
+
+.pub-button.code:hover {
+  background: #047857;
+  color: white;
 }
 
 .my-name {

@@ -11,7 +11,7 @@ I have been a teaching assistant for the following courses:
 
 **Rutgers University**
 
-- CS323: Numerical Analysis and Computing (Spring 2024, Spring 2025)
+- CS323: Numerical Analysis and Computing ([Spring 2024](https://sites.google.com/site/pengzhang27182/spring24), Spring 2025)
 - CS205: Introduction to Discrete Structures I (Fall 2023, Fall 2024)
 
 **Shanghai Jiao Tong University**
