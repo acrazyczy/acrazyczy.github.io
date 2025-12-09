@@ -62,7 +62,7 @@ params:
   profileMode:
     enabled: true
     title: Ziyi Cai
-    subtitle: "I am a third-year Ph.D. student in the <a style='color: #0066cc;' href='https://theory.cs.rutgers.edu/'>CS Theory Group</a> at <a style='color: #0066cc;' href='https://www.rutgers.edu/'>Rutgers University</a>. I am fortunate to be advised by <a style='color: #0066cc;' href='https://sites.google.com/site/pengzhang27182/'>Peng Zhang</a> and work closely with <a style='color: #0066cc;' href='https://sites.google.com/view/kangningwang/'>Kangning Wang</a>. My current interest mainly lies in computational social choice."
+    subtitle: "I am a third-year Ph.D. candidate in the <a style='color: #0066cc;' href='https://theory.cs.rutgers.edu/'>CS Theory Group</a> at <a style='color: #0066cc;' href='https://www.rutgers.edu/'>Rutgers University</a>. I am fortunate to be advised by <a style='color: #0066cc;' href='https://sites.google.com/site/pengzhang27182/'>Peng Zhang</a> and work closely with <a style='color: #0066cc;' href='https://sites.google.com/view/kangningwang/'>Kangning Wang</a>. My current interest mainly lies in computational social choice."
     imageUrl: "avatar.jpg"
     imageWidth: 160
     imageHeight: 160
