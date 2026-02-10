@@ -5,25 +5,21 @@ hidemeta: true
 description: "Publication list of Ziyi Cai"
 ---
 
-**(α-β) stands for alphabetic order.**
-
-## Ongoing Works
-
-<div class="publication-list">
-
-<div class="publication-item">
-  <div class="pub-title">Metric Distortion of Matching: A Stochastic Perspective</div>
-  <div class="pub-authors"><span class="my-name">(α-β)</span> <span class="my-name">Ziyi Cai</span>, Qing Chen, Kangning Wang and Peng Zhang</div>
-  <div class="pub-venue">In <span class="journal-name">Submission</span></div>
-</div>
-</div>
-
 ---
+
+**(α-β) stands for alphabetic order.**
 
 ## Preprint
 
 <div class="publication-list">
-
+<div class="publication-item">
+  <div class="pub-title">Distortion of Metric Voting with Bounded Randomness </div>
+  <div class="pub-authors"><span class="my-name">(α-β)</span> <span class="my-name">Ziyi Cai</span>, D. D. Gao, Prasanna Ramakrishnan, Kangning Wang</div>
+  <div class="pub-venue">In <span class="journal-name">Submission</span></div>
+  <div class="pub-links">
+<a href="https://arxiv.org/abs/2602.08871" class="pub-button pdf">&#128214; PDF</a>
+  </div>
+</div>
 </div>
 
 ---

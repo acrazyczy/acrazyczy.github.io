@@ -28,12 +28,15 @@ menu:
     - name: Teaching
       url: teaching/
       weight: 4
+    - name: Services
+      url: services
+      weight: 5
     - name: Projects
       url: projects/
-      weight: 5
+      weight: 6
     - name: Blog (for Competitive Programming)
       url: https://acrazyczy.github.io/blog
-      weight: 6
+      weight: 7
 
 params:
   description: "This website hosts Ziyi Cai's publication, projects, curriculum vitae, and contact information."
@@ -75,6 +78,8 @@ params:
         url: projects/
       - name: Teaching
         url: teaching/
+      - name: Services
+        url: services/
 
       # - name: Courses
       # url: courses/
