@@ -14,10 +14,10 @@ description: "Publication list of Ziyi Cai"
 <div class="publication-list">
 <div class="publication-item">
   <div class="pub-title">Distortion of Metric Voting with Bounded Randomness </div>
-  <div class="pub-authors"><span class="my-name">(α-β)</span> <span class="my-name">Ziyi Cai</span>, D. D. Gao, Prasanna Ramakrishnan, Kangning Wang</div>
+  <div class="pub-authors"><span class="my-name">(α-β)</span> <span class="my-name">Ziyi Cai</span>, D. D. Gao, Prasanna Ramakrishnan, and Kangning Wang</div>
   <div class="pub-venue">In <span class="journal-name">Submission</span></div>
   <div class="pub-links">
-<a href="https://arxiv.org/abs/2602.08871" class="pub-button pdf">&#128214; PDF</a>
+<a href="https://arxiv.org/abs/2602.08871" class="pub-button pdf">arXiv</a>
   </div>
 </div>
 </div>
