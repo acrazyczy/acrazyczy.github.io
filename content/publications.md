@@ -1,8 +1,8 @@
 ---
-title: "Publication"
+title: "Publications"
 date: 2025-10-13
 hidemeta: true
-description: "Publication list of Ziyi Cai"
+description: "Publications of Ziyi Cai"
 ---
 
 ---

@@ -2,7 +2,7 @@
 
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
-{{- with site.GetPage "/publication" }}
+{{- with site.GetPage "/publications" }}
 <section class="home-publications">
   <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}

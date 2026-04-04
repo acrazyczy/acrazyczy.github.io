@@ -19,8 +19,8 @@ menu:
     - name: CV
       url: cv.pdf
       weight: 1
-    - name: Publication
-      url: publication/
+    - name: Publications
+      url: publications/
       weight: 2
     - name: Talks
       url: talks/
@@ -29,7 +29,7 @@ menu:
       url: teaching/
       weight: 4
     - name: Services
-      url: services
+      url: services/
       weight: 5
     - name: Projects
       url: projects/
@@ -39,7 +39,7 @@ menu:
       weight: 7
 
 params:
-  description: "This website hosts Ziyi Cai's publication, projects, curriculum vitae, and contact information."
+  description: "This website hosts Ziyi Cai's publications, projects, curriculum vitae, and contact information."
   author: Ziyi Cai
   # googleAnalyticsID: "G-XXXXX"
   DateFormat: "January 2006"
@@ -54,7 +54,7 @@ params:
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowAllPagesInArchive: false
-  MainSections: ["publication", "teaching", "projects", "talks"]
+  MainSections: ["publications", "teaching", "projects", "talks"]
   ShowToc: false
   disableScrollToTop: true
   TocOpen: true
@@ -70,8 +70,8 @@ params:
     imageWidth: 160
     imageHeight: 160
     buttons:
-      - name: Publication
-        url: publication/
+      - name: Publications
+        url: publications/
       - name: Talks
         url: talks/
       - name: Projects
