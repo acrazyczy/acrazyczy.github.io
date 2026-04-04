@@ -9,13 +9,19 @@ description: "Publication list of Ziyi Cai"
 
 **(α-β) stands for alphabetic order.**
 
-## Preprint
+---
+
+## Preprints
 
 <div class="publication-list">
 <div class="publication-item">
   <div class="pub-title">Distortion of Metric Voting with Bounded Randomness </div>
   <div class="pub-authors"><span class="my-name">(α-β)</span> <span class="my-name">Ziyi Cai</span>, D. D. Gao, Prasanna Ramakrishnan, and Kangning Wang</div>
-  <div class="pub-venue">In <span class="journal-name">Submission</span></div>
+  <div class="pub-venue">Under <span class="journal-name">Review</span></div>
+   <div class="pub-languages">
+      <div class="pub-language">Computational Social Choice</div>
+      <div class="pub-language">Algorithmic Game Theory</div>
+        </div>
   <div class="pub-links">
     <input type="checkbox" id="distortion-randomness-abstract-toggle" class="pub-abstract-checkbox" />
     <label for="distortion-randomness-abstract-toggle" class="pub-button abstract">&#128221; Abstract</label>
@@ -35,7 +41,7 @@ description: "Publication list of Ziyi Cai"
 
 ---
 
-## Published Papers
+## Publications
 
 <div class="publication-list">
 
@@ -43,11 +49,14 @@ description: "Publication list of Ziyi Cai"
   <div class="pub-title">Weaver’s Discrepancy for Gaussian Random Vectors</div>
   <div class="pub-authors"><span class="my-name">(α-β)</span> <span class="my-name">Ziyi Cai</span>, Qing Chen, and Peng Zhang</div>
   <div class="pub-venue">In <span class="journal-name">SIAM Journal on Discrete Mathematics</span>, Volume 39, Issue 3, Sep 2025</div>
+   <div class="pub-languages">
+      <div class="pub-language">Discrepancy Theory</div>
+        </div>
   <div class="pub-links">
     <input type="checkbox" id="weaver-abstract-toggle" class="pub-abstract-checkbox" />
     <label for="weaver-abstract-toggle" class="pub-button abstract">&#128221; Abstract</label>
     <a href="https://epubs.siam.org/doi/10.1137/24M1678878" class="pub-button paper">&#128214; Paper</a>
-    <div class="pub-abstract">We study Weaver’s discrepancy for \(n\) independent and identically distributed Gaussian random vectors in \(d\) dimensions. Weaver’s discrepancy for a list of vectors is defined as the minimum operator norm of the signed sum of the vectors’ outer products among all possible sign choices. First, we establish that when \(d = O(1)\), with probability at least 0.99, Weaver’s discrepancy is \(\Theta (\sqrt {n} 2^{-\frac {2n}{d(d+1)}})\). Second, we demonstrate that for \(\Omega (n^{2/3}) = d=O(n)\), Weaver’s discrepancy is \(\Omega (d)\), and for \(\Omega (n^{0.01}) = d=O(n)\), the discrepancy is \(O(\sqrt {dn})\), both with high probability; these two bounds match when \(d = \Theta (n)\). Our proofs mainly utilize the first- and second-moment methods. One exception is that for the upper bound when \(d = O(n)\), we show that independently and uniformly chosen signs achieve this upper bound with high probability.
+    <div class="pub-abstract">We study Weaver’s discrepancy for \(n\) independent and identically distributed Gaussian random vectors in \(d\) dimensions. Weaver’s discrepancy for a list of vectors is defined as the minimum operator norm of the signed sum of the vectors’ outer products among all possible sign choices. First, we establish that when \(d = O(1)\), with probability at least \(0.99\), Weaver’s discrepancy is \(\Theta (\sqrt {n} 2^{-\frac {2n}{d(d+1)}})\). Second, we demonstrate that for \(\Omega (n^{2/3}) = d=O(n)\), Weaver’s discrepancy is \(\Omega (d)\), and for \(\Omega (n^{0.01}) = d=O(n)\), the discrepancy is \(O(\sqrt {dn})\), both with high probability; these two bounds match when \(d = \Theta (n)\). Our proofs mainly utilize the first- and second-moment methods. One exception is that for the upper bound when \(d = O(n)\), we show that independently and uniformly chosen signs achieve this upper bound with high probability.
     </div>
   </div>
 </div>

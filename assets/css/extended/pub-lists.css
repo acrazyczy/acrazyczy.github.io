@@ -117,12 +117,12 @@
 }
 
 .pub-button.paper {
-  color: #82ad7f;
-  border: 2px solid #82ad7f;
+  color: #629c60;
+  border: 2px solid #629c60;
 }
 
 .pub-button.paper:hover {
-  background: #82ad7f;
+  background: #629c60;
   color: white;
 }
 
@@ -136,28 +136,17 @@
   color: white;
 }
 
-.pub-button.code {
-  color: #047857;
-  border: 2px solid #047857;
-}
-
-.pub-button.code:hover {
-  background: #047857;
-  color: white;
-}
-
 .pub-button.abstract {
-  color: #7c5a2c;
-  border: 2px solid #7c5a2c;
+  color: #fe8c3e;
+  border: 2px solid #fe8c3e;
   cursor: pointer;
 }
 
 .pub-button.abstract:hover,
 .pub-abstract-checkbox:checked + .pub-button.abstract {
-  background: #7c5a2c;
+  background: #fe8c3e;
   color: white;
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(124, 90, 44, 0.3);
 }
 
 .pub-abstract-checkbox {
@@ -174,10 +163,10 @@
   flex-basis: 100%;
   margin-top: 0.75rem;
   padding: 0.85rem 1rem;
-  border-left: 3px solid #d6c2a0;
-  background: rgba(124, 90, 44, 0.08);
+  border-left: 3px solid #fe8c3e;
+  background: rgba(255, 225, 193, 1);
   border-radius: 4px;
-  color: var(--content, #1a1a1a);
+  color: var(--content, #fe8c3e);
   font-size: 0.92rem;
   line-height: 1.65;
 }

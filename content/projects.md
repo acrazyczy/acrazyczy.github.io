@@ -22,7 +22,7 @@ description: "Selected Projects of Ziyi Cai"
   <div class="pub-links">
     <!-- <a href="#" class="pub-button arxiv">arXiv</a> -->
     <a href="https://acm.sjtu.edu.cn/OnlineJudge/" class="pub-button">&#127760; Website</a>
-    <a href="https://github.com/ACMClassOJ/TesutoHime" class="pub-button code">&#128187; Code</a>
+    <a href="https://github.com/ACMClassOJ/TesutoHime" class="pub-button paper">&#128187; Code</a>
     <!-- <a href="#" class="pub-button code">Code</a> -->
   </div>
 </div>
