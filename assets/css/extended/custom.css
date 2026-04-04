@@ -1,1 +1,13 @@
+.main .profile {
+  min-height: auto;
+  padding-bottom: 1rem;
+}
 
+.home-publications {
+  margin-top: 1.5rem;
+}
+
+.home-publications .post-content {
+  max-width: 900px;
+  margin: 0 auto;
+}

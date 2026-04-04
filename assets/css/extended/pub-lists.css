@@ -70,11 +70,17 @@
   display: flex;
   gap: 0.5rem;
   flex-wrap: wrap;
+  align-items: flex-start;
 }
 
 .pub-button {
-  display: inline-block;
-  padding: 0.2rem 0.6rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  padding: 0.4rem 0.6rem;
+  /* min-height: 2rem; */
+  box-sizing: border-box;
   background: transparent;
   color: #0066cc;
   border: 2px solid #0066cc;
@@ -82,7 +88,25 @@
   border-radius: 4px;
   font-size: 0.85rem;
   font-weight: 600;
+  line-height: 1;
   transition: all 0.2s ease;
+}
+
+.pub-button-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 0.7rem;
+  height: 0.7rem;
+  flex-shrink: 0;
+}
+
+.pub-button-icon img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  /* object-fit: scale-down; */
+  vertical-align: middle;
 }
 
 .pub-button:hover {
@@ -92,27 +116,27 @@
   box-shadow: 0 4px 8px rgba(0, 102, 204, 0.3);
 }
 
-.pub-button.pdf {
-  /* background: #b31b1b; */
-  color: #8b1515;
-  border: 2px solid #8b1515;
+.pub-button.paper {
+  color: #82ad7f;
+  border: 2px solid #82ad7f;
 }
 
-.pub-button.pdf:hover {
-  background: #8b1515;
+.pub-button.paper:hover {
+  background: #82ad7f;
   color: white;
 }
 
-/* .pub-button.pdf { */
-/*   background: #dc2626; */
-/* } */
-/**/
-/* .pub-button.pdf:hover { */
-/*   background: #b91c1c; */
-/* } */
+.pub-button.arxiv {
+  color: #b31b1b;
+  border: 2px solid #b31b1b;
+}
+
+.pub-button.arxiv:hover {
+  background: #b31b1b;
+  color: white;
+}
 
 .pub-button.code {
-  /* background: #059669; */
   color: #047857;
   border: 2px solid #047857;
 }
@@ -120,6 +144,42 @@
 .pub-button.code:hover {
   background: #047857;
   color: white;
+}
+
+.pub-button.abstract {
+  color: #7c5a2c;
+  border: 2px solid #7c5a2c;
+  cursor: pointer;
+}
+
+.pub-button.abstract:hover,
+.pub-abstract-checkbox:checked + .pub-button.abstract {
+  background: #7c5a2c;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(124, 90, 44, 0.3);
+}
+
+.pub-abstract-checkbox {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.pub-abstract-checkbox:not(:checked) ~ .pub-abstract {
+  display: none;
+}
+
+.pub-abstract {
+  flex-basis: 100%;
+  margin-top: 0.75rem;
+  padding: 0.85rem 1rem;
+  border-left: 3px solid #d6c2a0;
+  background: rgba(124, 90, 44, 0.08);
+  border-radius: 4px;
+  color: var(--content, #1a1a1a);
+  font-size: 0.92rem;
+  line-height: 1.65;
 }
 
 .my-name {

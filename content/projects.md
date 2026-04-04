@@ -27,7 +27,7 @@ description: "Selected Projects of Ziyi Cai"
   </div>
 </div>
 
-<div class="publication-item">
+<!-- <div class="publication-item">
 <div class="pub-title-row">
   <div class="pub-title">Mx<sup>*</sup> Compiler</div>
 <div class="pub-languages">
@@ -39,9 +39,9 @@ description: "Selected Projects of Ziyi Cai"
   <div class="pub-authors">Dec. 2020 - May. 2021</div>
   <div class="pub-venue">An optimizing compiler for a Java-like language.</div>
   <div class="pub-links">
-    <!-- <a href="#" class="pub-button arxiv">arXiv</a> -->
+ 
     <a href="https://github.com/acrazyczy/Mx_star_compiler" class="pub-button code">&#128187; Code</a>
-    <!-- <a href="#" class="pub-button code">Code</a> -->
+
   </div>
 </div>
 
@@ -56,10 +56,10 @@ description: "Selected Projects of Ziyi Cai"
   <div class="pub-authors">Nov. 2020 - Jan. 2021</div>
   <div class="pub-venue">An emulated out-of-order execution RISC-V CPU.</div>
   <div class="pub-links">
-    <!-- <a href="#" class="pub-button arxiv">arXiv</a> -->
+  
     <a href="https://github.com/acrazyczy/RISCV-CPU" class="pub-button code">&#128187; Code</a>
-    <!-- <a href="#" class="pub-button code">Code</a> -->
+
   </div>
-</div>
+</div> -->
 
 </div>

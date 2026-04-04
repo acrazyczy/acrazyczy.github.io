@@ -74,6 +74,7 @@
 
 .post-content a,
 .post-meta a,
+.post-content label,
 .toc a:hover {
     box-shadow: 0 2px 0 var(--darkcolor);
     color: currentColor; 

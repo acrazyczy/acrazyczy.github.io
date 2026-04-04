@@ -10,9 +10,10 @@ description: "Teaching Experience of Ziyi Cai"
 I have been a teaching assistant for the following courses:
 
 **Rutgers University**
-
+- CS513: Design and Analysis of Data Structures and Algorithms (Spring 2026)
 - CS323: Numerical Analysis and Computing ([Spring 2024](https://sites.google.com/site/pengzhang27182/spring24), Spring 2025)
 - CS205: Introduction to Discrete Structures I (Fall 2023, Fall 2024)
+- CS522: Network and Combinatorial Optimization ([Fall 2023](https://sites.google.com/site/pengzhang27182/fall23))
 
 **Shanghai Jiao Tong University**
 
