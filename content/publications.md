@@ -14,10 +14,19 @@ description: "Publications of Ziyi Cai"
 ## Preprints
 
 <div class="publication-list">
+</div>
+
+---
+
+## Publications
+
+<div class="publication-list">
+
 <div class="publication-item">
   <div class="pub-title">Distortion of Metric Voting with Bounded Randomness </div>
   <div class="pub-authors"><span class="my-name">(α-β)</span> <span class="my-name">Ziyi Cai</span>, D. D. Gao, Prasanna Ramakrishnan, and Kangning Wang</div>
-  <div class="pub-venue">Under <span class="journal-name">Review</span></div>
+  <div class="pub-venue">In <span class="journal-name">Proceedings of the 27th ACM Conference
+on Economics and Computation (EC)</span>, 2026</div>
    <div class="pub-languages">
       <div class="pub-language">Computational Social Choice</div>
       <div class="pub-language">Algorithmic Game Theory</div>
@@ -37,13 +46,6 @@ description: "Publications of Ziyi Cai"
 <!-- <a href="https://arxiv.org/pdf/2602.08871" class="pub-button paper">&#128214; PDF</a> -->
   </div>
 </div>
-</div>
-
----
-
-## Publications
-
-<div class="publication-list">
 
 <div class="publication-item">
   <div class="pub-title">Weaver’s Discrepancy for Gaussian Random Vectors</div>
