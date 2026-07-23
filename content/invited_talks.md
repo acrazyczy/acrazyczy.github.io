@@ -8,6 +8,7 @@ description: "Invited Talks given by Ziyi Cai"
 ---
 
 **Distortion of Metric Voting with Bounded Randomness**
+- [The 27th ACM Conference on Economics and Computation (EC)](https://ec26.sigecom.org/), Rome, Jul 2026
 - [Seminar](https://jhc.sjtu.edu.cn/seminar/2026/0509/273.html) at [John Hopcroft Center for Computer Science](https://jhc.sjtu.edu.cn/), Shanghai Jiao Tong University, May 2026
 
 **Metric Distortion of Matching: A Stochastic Perspective**

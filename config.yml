@@ -22,8 +22,8 @@ menu:
     - name: Publications
       url: publications/
       weight: 2
-    - name: Talks
-      url: talks/
+    - name: Invited Talks
+      url: invited_talks/
       weight: 3
     - name: Teaching
       url: teaching/
@@ -54,7 +54,7 @@ params:
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowAllPagesInArchive: false
-  MainSections: ["publications", "teaching", "projects", "talks"]
+  MainSections: ["publications", "teaching", "projects", "invited_talks"]
   ShowToc: false
   disableScrollToTop: true
   TocOpen: true
@@ -72,8 +72,8 @@ params:
     buttons:
       - name: Publications
         url: publications/
-      - name: Talks
-        url: talks/
+      - name: Invited Talks
+        url: invited_talks/
       - name: Projects
         url: projects/
       - name: Teaching
