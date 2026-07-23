@@ -27,16 +27,18 @@ description: "Publications of Ziyi Cai"
   <div class="pub-links">
     <input type="checkbox" id="lgtl-abstract-toggle" class="pub-abstract-checkbox" />
     <label for="lgtl-abstract-toggle" class="pub-button abstract">&#128221; Abstract</label>
+    <a href="" class="pub-button arxiv">
+  <span class="pub-button-icon" aria-hidden="true">
+    <img src="/icon/arxiv-logomark-small.svg" alt="" />
+  </span>
+  <span>arXiv</span>
+</a>
    <div class="pub-abstract">
-      <i>Language generation in the limit</i> is a theoretical framework for studying how a generator can learn to produce new valid strings from a stream of positive examples. In this model, an adversary chooses an unknown language from a countable family and enumerates its elements in an arbitrary order, while the generator must eventually output only elements of the language that have not yet appeared in the enumeration. Reliable generation is thus formalized through two eventual guarantees: validity and novelty relative to the observed data. To further quantify the breadth of the generator's outputs, Kleinberg and Wei (FOCS 2025, STOC 2026) introduced lower density as a measure of output coverage. Given an order representing the importance or relevance of possible outputs, lower density is the asymptotic lower bound, as $n$ grows, on the fraction of the first $n$ elements of the target language that the generator outputs before they appear in the data. Kleinberg and Wei showed that $1/2$ is the optimal lower-density guarantee for deterministic algorithms.
-
-We develop a simple and unified framework for obtaining optimal lower-density guarantees. We first give a deterministic algorithm that recovers the optimal guarantee of $1/2$ with a significantly simpler analysis than prior work. We then demonstrate the flexibility of our framework through two extensions. First, against an oblivious adversary, randomization raises the optimal guarantee to $1-1/e$. Second, for any finite collection of orders, the optimal deterministic and randomized guarantees can be achieved simultaneously with respect to every order, so accommodating multiple notions of importance or relevance entails no loss in the optimal guarantee.
+      <p><i>Language generation in the limit</i> is a theoretical framework for studying how a generator can learn to produce new valid strings from a stream of positive examples. In this model, an adversary chooses an unknown language from a countable family and enumerates its elements in an arbitrary order, while the generator must eventually output only elements of the language that have not yet appeared in the enumeration. Reliable generation is thus formalized through two eventual guarantees: validity and novelty relative to the observed data. To further quantify the breadth of the generator's outputs, Kleinberg and Wei (FOCS 2025, STOC 2026) introduced lower density as a measure of output coverage. Given an order representing the importance or relevance of possible outputs, lower density is the asymptotic lower bound, as $n$ grows, on the fraction of the first $n$ elements of the target language that the generator outputs before they appear in the data. Kleinberg and Wei showed that $1/2$ is the optimal lower-density guarantee for deterministic algorithms.</p>
+      <p>We develop a simple and unified framework for obtaining optimal lower-density guarantees. We first give a deterministic algorithm that recovers the optimal guarantee of $1/2$ with a significantly simpler analysis than prior work. We then demonstrate the flexibility of our framework through two extensions. First, against an oblivious adversary, randomization raises the optimal guarantee to $1-1/e$. Second, for any finite collection of orders, the optimal deterministic and randomized guarantees can be achieved simultaneously with respect to every order, so accommodating multiple notions of importance or relevance entails no loss in the optimal guarantee.</p>
     </div>
-<!-- <a href="https://arxiv.org/pdf/2602.08871" class="pub-button paper">&#128214; PDF</a> -->
   </div>
 </div>
-
-
 </div>
 
 ---
