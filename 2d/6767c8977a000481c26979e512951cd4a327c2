@@ -1,0 +1,18 @@
+content/invited_talks.md
+  h_59a9af7c3828ea 1-16
+config.yml
+  h_59a9af7c3828ea 25-26,57,75-76
+content/publications.md
+  h_59a9af7c3828ea 17-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "2d6767c8977a000481c26979e512951cd4a327c2",
+  "prompts": {},
+  "humans": {
+    "h_59a9af7c3828ea": {
+      "author": "Ziyi Cai <zc417@sas50a6d8d2b6a0.sas.rutgers.edu>"
+    }
+  }
+}
