@@ -1,0 +1,29 @@
+content/invited_talks.md
+  h_59a9af7c3828ea 11
+content/publications.md
+  s_08add7fade4a24::t_496e0cac00d8e6 37-38
+  h_59a9af7c3828ea 30-35
+assets/css/extended/pub-lists.css
+  s_08add7fade4a24::t_496e0cac00d8e6 174-181
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "1568b815712a568665bdf2d635b7a74dab0291b9",
+  "prompts": {},
+  "humans": {
+    "h_59a9af7c3828ea": {
+      "author": "Ziyi Cai <zc417@sas50a6d8d2b6a0.sas.rutgers.edu>"
+    }
+  },
+  "sessions": {
+    "s_08add7fade4a24": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8fa2-5b08-7711-ace4-b5e580e126dd",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ziyi Cai <zc417@sas50a6d8d2b6a0.sas.rutgers.edu>"
+    }
+  }
+}
