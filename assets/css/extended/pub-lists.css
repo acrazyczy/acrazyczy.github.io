@@ -136,6 +136,21 @@
   color: white;
 }
 
+.pub-button.lean {
+  color: #4f46a5;
+  border: 2px solid #4f46a5;
+}
+
+.pub-button.lean:hover {
+  background: #4f46a5;
+  color: white;
+}
+
+.pub-button.lean .pub-button-icon {
+  width: 0.95rem;
+  height: 0.7rem;
+}
+
 .pub-button.abstract {
   color: #fe8c3e;
   border: 2px solid #fe8c3e;
