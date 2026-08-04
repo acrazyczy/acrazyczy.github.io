@@ -1,0 +1,29 @@
+static/icon/lean-logo-official.svg
+  s_5bb3535804f685::t_33489693faf40c 1-5
+content/publications.md
+  h_59a9af7c3828ea 23,36
+  s_5bb3535804f685::t_33489693faf40c 30,37-41
+assets/css/extended/pub-lists.css
+  s_5bb3535804f685::t_33489693faf40c 139-153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "d96eb660ce41f6cc26bffccf19ca7c59f0796886",
+  "prompts": {},
+  "humans": {
+    "h_59a9af7c3828ea": {
+      "author": "Ziyi Cai <zc417@sas50a6d8d2b6a0.sas.rutgers.edu>"
+    }
+  },
+  "sessions": {
+    "s_5bb3535804f685": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fcaaa-a674-7663-8a26-974b74dbeee1",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Ziyi Cai <zc417@sas50a6d8d2b6a0.sas.rutgers.edu>"
+    }
+  }
+}
