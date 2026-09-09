@@ -16,6 +16,29 @@ description: "Publications of Ziyi Cai"
 <div class="publication-list">
 
 <div class="publication-item">
+  <div class="pub-title">Stable Voting Rules on the Edge of Optimal Metric Distortion</div>
+  <div class="pub-authors"><span class="my-name">(α-β)</span> <span class="my-name">Ziyi Cai</span>, Moses Charikar, Jabari Hastings, Prasanna Ramakrishnan, Kangning Wang, and Qilin Ye</div>
+  <div class="pub-venue"><span class="journal-name">Preprint</span>, 2026</div>
+  <div class="pub-languages">
+    <div class="pub-language">Computational Social Choice</div>
+    <div class="pub-language">Algorithmic Game Theory</div>
+  </div>
+  <div class="pub-links">
+    <input type="checkbox" id="stable-voting-abstract-toggle" class="pub-abstract-checkbox" />
+    <label for="stable-voting-abstract-toggle" class="pub-button abstract">&#128221; Abstract</label>
+    <a href="https://arxiv.org/abs/2609.08259" class="pub-button arxiv">
+      <span class="pub-button-icon" aria-hidden="true">
+        <img src="/icon/arxiv-logomark-small.svg" alt="" />
+      </span>
+      <span>arXiv</span>
+    </a>
+    <div class="pub-abstract">
+      We prove the existence of a randomized voting rule with metric distortion at most $2.13713$, within $0.025$ of the lower bound of $2.11264$. Our rule comes from a generalization of <i>stable $k$-lotteries</i> developed in the context of committee selection. In contrast to prior work, our rule samples from a single distribution derived from a zero-sum game, without mixing between voting rules. Our result also gives sharp distortion bounds for stable $k$-lotteries, and in particular shows that stable $2$-lotteries have distortion $7/3$, despite only relying on aggregate preferences over triples of candidates.
+    </div>
+  </div>
+</div>
+
+<div class="publication-item">
   <div class="pub-title">Dense Language Generation Made Simple: Deterministic, Randomized, and Multi-Order Algorithms</div>
   <div class="pub-authors"><span class="my-name">(α-β)</span> <span class="my-name">Ziyi Cai</span>, Shuangping Li, Yiheng Shen, Kangning Wang, and Peng Zhang</div>
   <div class="pub-venue">In <span class="journal-name">Submission</span></div>
