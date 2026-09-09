@@ -1,0 +1,26 @@
+content/publications.md
+  s_b96fd2d4dbd898::t_5fe74b1e667a45 19-35,37-40
+  h_59a9af7c3828ea 36
+  s_b96fd2d4dbd898::t_6ba286593741a7 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "b284955046ff433a1496c5b089e80df9fd0c5834",
+  "prompts": {},
+  "humans": {
+    "h_59a9af7c3828ea": {
+      "author": "Ziyi Cai <zc417@sas50a6d8d2b6a0.sas.rutgers.edu>"
+    }
+  },
+  "sessions": {
+    "s_b96fd2d4dbd898": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0849b-2eea-71f0-9060-f5e798d5c170",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Ziyi Cai <zc417@sas50a6d8d2b6a0.sas.rutgers.edu>"
+    }
+  }
+}
