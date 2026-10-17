@@ -1,0 +1,29 @@
+config.yml
+  s_34067444249358::t_fd652d9f85643b 68
+content/services.md
+  h_59a9af7c3828ea 10
+content/contact.md
+  s_34067444249358::t_1957adbf6947ab 35-37,39-54
+  s_34067444249358::t_d0055576ea4e04 9,20-31,34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cd80bf3060617355a98ca5b4d89f725d0b7adc3c",
+  "prompts": {},
+  "humans": {
+    "h_59a9af7c3828ea": {
+      "author": "Ziyi Cai <zc417@sas50a6d8d2b6a0.sas.rutgers.edu>"
+    }
+  },
+  "sessions": {
+    "s_34067444249358": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a14766-4439-7473-9582-2326770803e4",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Ziyi Cai <zc417@sas50a6d8d2b6a0.sas.rutgers.edu>"
+    }
+  }
+}
