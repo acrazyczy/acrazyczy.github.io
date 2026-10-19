@@ -1,0 +1,14 @@
+config.yml
+  h_59a9af7c3828ea 19-21,94-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9643fadc048e8452e0e535e82a6ca2913e0a47c3",
+  "prompts": {},
+  "humans": {
+    "h_59a9af7c3828ea": {
+      "author": "Ziyi Cai <zc417@sas50a6d8d2b6a0.sas.rutgers.edu>"
+    }
+  }
+}
