@@ -16,9 +16,9 @@ menu:
     # - name: Books
     # url: books/
     # weight: 5
-    - name: CV
-      url: cv.pdf
-      weight: 1
+    # - name: CV
+    #   url: cv.pdf
+      # weight: 1
     - name: Publications
       url: publications/
       weight: 2
@@ -91,8 +91,8 @@ params:
       # url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
   socialIcons:
-    - name: CV
-      url: cv.pdf
+    # - name: CV
+      # url: cv.pdf
     - name: Email
       url: contact/
     # - name: Zoom
